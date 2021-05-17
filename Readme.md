@@ -1,0 +1,1 @@
+This is a project I am working on to enact the multiplayer card game "Don't Mess with Cthulu" on a web server. This repo is the backend, which I am writing in Python and will later link up to a React.js front end. More details to come.
